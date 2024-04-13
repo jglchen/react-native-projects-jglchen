@@ -1,0 +1,98 @@
+{
+  "Navigation": {
+    "Home": "首頁",
+    "Contact": "跟我聯絡",
+    "Projects": "專案作品",
+    "Skills": "技能",
+    "Blog": "部落格",
+    "Mobile": "行動裝置",
+    "SignIn": "登入",
+    "SignUp": "報名登記",
+    "BackHome": "回首頁",
+    "BackPrev": "回前頁",
+    "Prev": "上個",
+    "Next": "下個",
+    "HeadTitle": "陳光隆",
+    "QuickLink": "快速鍵",
+    "Support": "支援"
+  },
+  "HomePage": {
+    "title": "建立從網站到行動裝置的各種應用程式 - 陳光隆的專業簡介",
+    "description": "建立從網站到行動裝置的各種應用程式",
+    "footersub": "一個您正在尋找的網路解決方案專才"
+  },
+  "AboutPage": {
+    "title": "關於我們",
+    "description": "The routing is internationalized too.\nIf you're using the default language English, you'll see /about in the browser address bar on this page.\nIf you change the locale to German, the URL is prefixed with the locale (/de/about).\n"
+  },
+  "ContactPage": {
+    "pagetitle": "立即聯絡我們，開始啟動工作",
+    "title": "發送訊息",
+    "Name": "姓名",
+    "Email": "電子郵件地址",
+    "Subject": "主旨",
+    "Phone": "電話號碼",
+    "Message": "留言",
+    "SendMsg": "送出留言",
+    "SendingMsg": "送出留言中",
+    "SendMsgSuccess": "已經成功發送訊息",
+    "AgreeTerm": "按一下核取方塊即表示您同意使用我們的表單條款並同意在瀏覽器中使用 cookie。",
+    "FindUs": "找到我們",
+    "description": "感謝您造訪我們的網站。 請透過電子郵件、WhatsApp 或下面的表格與我們聯繫。 我們期待提供您任何協助。",
+    "FormTitle": "請給我們留言",
+    "FormSubExp": "我們的支援團隊將盡快回覆您。",
+    "NameFieldRemark": "請輸入您的名字",
+    "EmailFieldRemark": "請輸入您的電子郵件信箱",
+    "YourMessage": "您的留言",
+    "MessageFieldRemark": "請輸入您的留言",
+    "FieldRequied": "此欄位是必需的",
+    "NameMax": "名字欄位不能超過 255 個字元",
+    "EmailMax": "電子郵件欄位不能超過 255 個字元",
+    "EmailNotValid": "該電子郵件不是有效的電子郵件",
+    "MsgAppreciate": "感謝您的留言",
+    "OpenQRCode": "顯示 QR Code",
+    "CloseQRCode": "隱藏 QR Code",
+    "NoknowOpenURL": "不知道如何開啟這個URL"
+},
+  "ContactInfo": {
+    "ContentTitle": "聯絡資訊",
+    "Email": "電子郵件",
+    "WhatsApp": "WhatsApp"
+  },
+  "ProjectPage": {
+    "title": "我們的工作範例",
+    "description": "以下只是我工作的幾個例子。請立即聯絡我以開始啟動工作。",
+    "nowork": "沒有發現與該標籤相關的作品。",
+    "tag": "標籤",
+    "nonamedwork": "沒有名為「{slug}」的作品",
+    "ViewSite": "觀看網站",
+    "ViewApp": "觀看應用程式",
+    "GitHub": "GitHub",
+    "Expo": "Expo 發佈",
+    "GitHubMobile": "GitHub(手機版)",
+    "RelatedWorks": "相關作品",
+    "PopularTags": "熱門標籤"
+  },
+  "SkillsPage": {
+    "title": "軟體技能",
+    "description": "我熟悉的網路和行動裝置軟體開發技能。您可以點擊選擇任一技能來展示使用該技術的專案作品。"
+  },
+  "Error": {
+    "title": "出了點問題！",
+    "description": "不幸的是，我們遇到了錯誤。\n您可以嘗試重新載入您正在造訪的頁面。"
+  },
+  "NotFoundPage": {
+    "Oops": "糟糕!",
+    "title": "此一螢幕不存在。",
+    "description": "請仔細檢查瀏覽器網址列或使用導覽前往已知頁面。",
+    "ContentTitle": "抱歉，找不到該頁面",
+    "ContentDescription": "您正在尋找的頁面似乎已被移動、刪除或不存在。"
+  },
+  "ComingPage": {
+    "title": {
+      "blog": "部落格即將推出"
+    },
+    "description": "請等待...",
+    "returnhome": "回首頁"
+  }
+}

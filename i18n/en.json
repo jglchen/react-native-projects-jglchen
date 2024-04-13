@@ -1,0 +1,98 @@
+{
+  "Navigation": {
+    "Home": "Home",
+    "Contact": "Contact",
+    "Projects": "Projects",
+    "Skills": "Skills",
+    "Blog": "Blog",
+    "Mobile": "Mobile",
+    "SignIn": "Sign In",
+    "SignUp": "Sign Up",
+    "BackHome": "Back to Home",
+    "BackPrev": "Back",
+    "Prev": "Prev",
+    "Next": "Next",
+    "HeadTitle": "John Chen",
+    "QuickLink": "Quick Links",
+    "Support": "Support"
+  },
+  "HomePage": {
+    "title": "Build Applications from Website to Mobile - John Chen's Professional Profile",
+    "description": "Build Applications from Website to Mobile",
+    "footersub": "A talent you are looking for web solutions"
+  },
+  "AboutPage": {
+    "title": "About",
+    "description": "The routing is internationalized too.\nIf you're using the default language English, you'll see /about in the browser address bar on this page.\nIf you change the locale to German, the URL is prefixed with the locale (/de/about).\n"
+  },
+  "ContactPage": {
+    "pagetitle": "Contact Us Today To Get Started",
+    "title": "Send a message",
+    "description": "Thank you for visiting our website. Please contact us by email, WhatsApp, or through the form below. We look forward to being of assistance.",
+    "Name": "Full Name",
+    "Email": "Email Address",
+    "Subject": "Subject",
+    "Phone": "Phone number",
+    "Message": "Message",
+    "SendMsg": "Send Message",
+    "SendingMsg": "Sending Message",
+    "SendMsgSuccess": "Already sent message successfully",
+    "AgreeTerm": "By clicking Checkbox, you agree to user our 'Form' terms And consent cookie usage in browser.",
+    "FindUs": "Find Us",
+    "FormTitle": "Leave Us A Message",
+    "FormSubExp": "Our support team will get back to you ASAP.",
+    "NameFieldRemark": "Enter your name",
+    "EmailFieldRemark": "Enter your email",
+    "YourMessage": "Your Message",
+    "MessageFieldRemark": "Enter your message",
+    "FieldRequied": "This field is required",
+    "NameMax": "The name field can not be longer than 255 characters.",
+    "EmailMax": "The email field can not be longer than 255 characters.",
+    "EmailNotValid": "The email is not a valid email.",
+    "MsgAppreciate": "Thank you for your message",
+    "OpenQRCode": "Open for QR Code",
+    "CloseQRCode": "Close QR Code",
+    "NoknowOpenURL": "Don't know how to open this URL"
+  },
+  "ContactInfo": {
+    "ContentTitle": "Contact Information",
+    "Email": "Email",
+    "WhatsApp": "WhatsApp"
+  },
+  "ProjectPage": {
+    "title": "Examples Of Our Work",
+    "description": "Below are just a few examples of my work. Contact me today to get started.",
+    "nowork": "There is no found work related to the tag.",
+    "tag": "Tag",
+    "nonamedwork": "There is no work named {slug}",
+    "ViewSite": "View the Site",
+    "ViewApp": "View the App",
+    "GitHub": "GitHub",
+    "Expo": "Expo Publish",
+    "GitHubMobile": "GitHub(Mobile)",
+    "RelatedWorks": "Related Works",
+    "PopularTags": "Popular Tags"
+  },
+  "SkillsPage": {
+    "title": "Software Skills",
+    "description": "The software skills I am familiar with web and mobile development. You can click selecting a skill to display the project works using the technology."
+  },
+  "Error": {
+    "title": "Something went wrong!",
+    "description": "We've unfortunately encountered an error.\nYou can try to reload the page you were visiting."
+  },
+  "NotFoundPage": {
+    "Oops": "Oops!",
+    "title": "This screen doesn't exist.",
+    "description": "Please double-check the browser address bar or use the navigation to go to a known page.",
+    "ContentTitle": "Sorry, the page can’t be found",
+    "ContentDescription": "The page you were looking for appears to have been moved, deleted or does not exist."
+  },
+  "ComingPage": {
+    "title": {
+      "blog": "Blog is coming soon."
+    },
+    "description": "Please wait...",
+    "returnhome": "Return to Home"
+  }
+}
