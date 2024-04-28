@@ -69,6 +69,8 @@
     "ViewApp": "View the App",
     "GitHub": "GitHub",
     "Expo": "Expo Publish",
+    "iOS": "iOS Dev Build",
+    "Andriod": "Andriod Dev Build",
     "GitHubMobile": "GitHub(Mobile)",
     "RelatedWorks": "Related Works",
     "PopularTags": "Popular Tags"

@@ -13,7 +13,7 @@ type Props = {
 }
 
 const ProjectDescr = ({ project }: Props) => {
-    const { title, description, siteurl, appurl, source, nativepub, nativesource, siteimg, mobileimg, docker, tags, body } = project;
+    const { title, description, siteurl, appurl, source, nativepub, iosbuild, androidbuild, nativesource, siteimg, mobileimg, docker, tags, body } = project;
     const {t, i18n} = useTranslation(); 
     const { colorScheme } = useColorScheme();
     const windowWidth = Dimensions.get('window').width;
@@ -47,6 +47,8 @@ const ProjectDescr = ({ project }: Props) => {
                 {appurl && <TagButton text={t('ProjectPage.ViewApp')} url={appurl} />}
                 {source && <TagButton text={t('ProjectPage.GitHub')} url={source} />}
                 {nativepub && <TagButton text={t('ProjectPage.Expo')} url={nativepub} />}
+                {iosbuild && <TagButton text={t('ProjectPage.iOS')} url={iosbuild} />}
+                {androidbuild && <TagButton text={t('ProjectPage.Andriod')} url={androidbuild} />}
                 {nativesource && <TagButton text={t('ProjectPage.GitHubMobile')} url={nativesource} />}
             </View>
             {docker && docker.split(' | ').length < 2 &&

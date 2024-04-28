@@ -10,6 +10,8 @@ export type Projects = {
     source: string
     nativepub?: string | undefined
     nativesource?: string | undefined
+    iosbuild?: string | undefined
+    androidbuild?: string | undefined
     docker: string
     siteimg: string
     mobileimg?: string | undefined
